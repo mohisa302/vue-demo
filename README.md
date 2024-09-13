@@ -1,4 +1,4 @@
-# vue-Demo
+# Vue-Demo 
 
 A simple web with Vue and Pnina
 ## Recommended IDE Setup
