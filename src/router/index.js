@@ -16,8 +16,8 @@ const router = createRouter({
       component: HomeView,
     },
     {
-      path: '/tasks',
-      name: 'tasks',
+      path: '/todo',
+      name: 'todo',
       component: TasksView,
     },
     {
